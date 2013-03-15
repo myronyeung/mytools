@@ -30,4 +30,4 @@
 	window.setTimeout(removeJunk, 4000); 
 
 	console.log(consoleString);
-})();
+}());
