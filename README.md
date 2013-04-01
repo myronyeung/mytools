@@ -11,7 +11,7 @@ Google Chrome:
 ```
 Command - Option - I: Open Developer Tools
 Command - Option - J: Open Developer Tools and bring focus to the Console.
-Control - Option - C: Toggle Inspect Element mode.
+Command - Option - C: Toggle Inspect Element mode.
 ```
 
 Sublime Text 2:
