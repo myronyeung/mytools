@@ -5,7 +5,7 @@ My personal scripts and tools
 
 TODO: Move below to its own file:
 
-Keyboard Shortcuts:
+Keyboard Shortcuts on OSX:
 
 Google Chrome:
 ```
